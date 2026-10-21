@@ -74,6 +74,6 @@
 - [质性研究作品集](https://github.com/Fenty-zhao/qualitative-research-portfolio/blob/main/docs/zh/README.md) — 质性访谈、编码及研究者反思
 - [游戏直播社群用户研究](https://github.com/Fenty-zhao/gaming-livestream-community-research/blob/main/docs/zh/README.md) — 独立用户与社群研究
 
-## 数据使用与透明说明
+## 研究伦理与透明说明
 
-本仓库整理的是**毕业论文正式提交稿中的研究设计与结果**，不将其表述为 GitHub 上重新运行并验证的分析结果。UKHLS 个体数据不在此公开；目前没有宣称已验证的复现脚本。研究发现属于统计关联，不等同于直接证实了因果关系。
+本作品集基于我正式提交的硕士毕业论文。仓库未公开 UKHLS 受访者个人层面的数据。这里展示的研究发现与统计结果均来自提交版论文，不将其表述为已独立重新运行并验证的分析。
