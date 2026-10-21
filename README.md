@@ -83,6 +83,6 @@ The detailed research notes are in English; the overview is available in English
 - [Qualitative Research Portfolio](https://github.com/Fenty-zhao/qualitative-research-portfolio) — qualitative interviewing, coding and researcher reflexivity
 - [Gaming Livestream Community Research](https://github.com/Fenty-zhao/gaming-livestream-community-research) — independent user and community research
 
-## Data & research transparency
+## Ethics & Transparency
 
-This repository **presents findings from the submitted dissertation**. Its numbers are not described as independently reproduced GitHub outputs. Restricted-access UKHLS respondent-level data are not published here; no reproduction script is presented as validated. The public portfolio reorganises the dissertation's research design and reported results and distinguishes statistical associations from causal claims.
+This portfolio is based on my submitted MSc dissertation. UKHLS respondent-level data are not published in this repository. The findings and statistical results presented here come from the submitted dissertation; they are not presented as independently reproduced analyses.
