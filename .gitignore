@@ -1,0 +1,10 @@
+# Restricted and locally derived survey data
+data/
+outputs/
+*.dta
+*.rds
+*.sav
+*.RData
+.Rhistory
+.Rproj.user/
+.DS_Store
